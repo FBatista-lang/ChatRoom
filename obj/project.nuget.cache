@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2n2SwxmO+T28BV+iC1Yla9d/D8oNJ3WM0hBXG2SsKGmrDlEPiQ06ukWX2lNT/8TsSTqbG4PrYBFa0PJO778BA==",
+  "success": true,
+  "projectFilePath": "E:\\ITLA\\C1 2023\\PROGRAMACION III\\ChatRoom\\ChatRoom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

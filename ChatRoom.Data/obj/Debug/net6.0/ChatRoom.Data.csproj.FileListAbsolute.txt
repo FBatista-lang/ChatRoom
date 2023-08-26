@@ -1,0 +1,12 @@
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\bin\Debug\net6.0\ChatRoom.Data.deps.json
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\bin\Debug\net6.0\ChatRoom.Data.dll
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\bin\Debug\net6.0\ChatRoom.Data.pdb
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.csproj.AssemblyReference.cache
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.AssemblyInfoInputs.cache
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.AssemblyInfo.cs
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.csproj.CoreCompileInputs.cache
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.dll
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\refint\ChatRoom.Data.dll
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.pdb
+C:\Users\Francisco'S PC\Desktop\ChatRoom\ChatRoom.Data\obj\Debug\net6.0\ref\ChatRoom.Data.dll

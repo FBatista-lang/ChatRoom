@@ -1,0 +1,86 @@
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\libman.json
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.exe
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.deps.json
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.runtimeconfig.json
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.runtimeconfig.dev.json
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.dll
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.pdb
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.Views.dll
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.Views.pdb
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.AssemblyInfoInputs.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.AssemblyInfo.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.csproj.CoreCompileInputs.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.MvcApplicationPartsAssemblyInfo.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorAssemblyInfo.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorAssemblyInfo.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\staticwebassets\ChatRoom.StaticWebAssets.Manifest.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\staticwebassets\ChatRoom.StaticWebAssets.xml
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatRoom.styles.css
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.TagHelpers.input.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.TagHelpers.output.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorCoreGenerate.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorTargetAssemblyInfo.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorTargetAssemblyInfo.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.Views.pdb
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.dll
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.pdb
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.genruntimeconfig.cache
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.csproj.CopyComplete
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Chat\ListaDeSalas.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Sala.cshtml.g.cs
+C:\ITLA 2023 C1 EN AULA\ChatRoom\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.csproj.AssemblyReference.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\libman.json
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.StaticWebAssets.xml
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.exe
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.deps.json
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.runtimeconfig.json
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.runtimeconfig.dev.json
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.dll
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.pdb
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.Views.dll
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\bin\Debug\netcoreapp3.1\ChatRoom.Views.pdb
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.csproj.AssemblyReference.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.AssemblyInfoInputs.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.AssemblyInfo.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.csproj.CoreCompileInputs.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.MvcApplicationPartsAssemblyInfo.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorAssemblyInfo.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorAssemblyInfo.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\staticwebassets\ChatRoom.StaticWebAssets.Manifest.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\staticwebassets\ChatRoom.StaticWebAssets.Pack.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ChatRoom.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ChatRoom.props
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ChatRoom.props
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ChatRoom.props
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.TagHelpers.input.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.TagHelpers.output.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorCoreGenerate.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Chat\ListaDeSalas.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Sala.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorTargetAssemblyInfo.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.RazorTargetAssemblyInfo.cs
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.Views.pdb
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.dll
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.pdb
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.genruntimeconfig.cache
+E:\ITLA\C1 2023\PROGRAMACION III\ChatRoom\ChatRoom\obj\Debug\netcoreapp3.1\ChatRoom.csproj.CopyComplete

@@ -1,0 +1,15 @@
+﻿<div class="row justify-content-center mt-5">
+    <div class="col-md-8">
+        <h2 class="text-center mb-4">Chats Disponibles</h2>
+        <div class="list-group">
+            @foreach (var e in ChatRoom.Controllers.ChatController.Salas)
+            {
+                <a href="~/Chat/Cuarto?sala=@e.Key" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                    @e.Value
+                    <span class="badge badge-primary badge-pill">@e.Key</span>
+                </a>
+            }
+        </div>
+    </div>
+</div>
+
